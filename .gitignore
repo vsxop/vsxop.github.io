@@ -1,0 +1,9 @@
+/.DS_Store
+/js archive
+/node_modules
+/package-lock.json
+/package.json
+/src
+/tailwind.config.js
+/js/apextwist.js
+/js/Random.js
